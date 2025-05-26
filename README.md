@@ -172,6 +172,6 @@ Fuera del ámbito de la programación, disfruto de los <strong style="color: #61
 <hr style="border: 0; height: 1px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(97, 218, 251, 0.75), rgba(0, 0, 0, 0)); margin: 40px auto; width: 80%;">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RafaelSanguinoAriza/RafaelSanguinoAriza/master/dist/github-contribution-grid-snake.svg" alt="Snake Game" width="800px" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(97, 218, 251, 0.3);"/>
+  <img src="https://raw.githubusercontent.com/RafaelSanguinoAriza/RafaelSanguinoAriza/output/github-contribution-grid-snake.svg" alt="Snake Game" width="800px" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(97, 218, 251, 0.3);"/>
 </div>
 
