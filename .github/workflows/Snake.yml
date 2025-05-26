@@ -2,17 +2,13 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *" 
+    - cron: "0 */6 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
-  pages: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions: # Añade estos permisos
+    permissions:  # Añade estos permisos
       contents: write
     steps:
       - uses: actions/checkout@v2
@@ -28,4 +24,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Cambiado a GITHUB_TOKEN
