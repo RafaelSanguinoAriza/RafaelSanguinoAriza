@@ -134,6 +134,33 @@ Fuera del ámbito de la programación, disfruto de los <strong style="color: #61
   <img src="https://img.shields.io/badge/-Descargar%20EXE-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Descargar EXE" style="height: 25px; margin-top: 5px;">
 </a>
   </div>
+  <br><br>
+  <div style="width: 250px; text-align: center; border: 1px solid #333; padding: 15px; border-radius: 8px; background-color: #1a1a1a; box-shadow: 0 4px 15px rgba(97, 218, 251, 0.2); transition: transform 0.3s ease-in-out;">
+    <h3 style="color: #ADD8E6;">🔋 EnergyPy</h3>
+    <img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" alt="Version 1.0">
+    <p style="font-size: 0.9em; color: #bbb; margin-bottom: 10px;">Aplicación multiplataforma para programar el apagado o reinicio del sistema de manera eficiente.</p>
+    <br>
+    <img src="img/EnergyPy.webp" alt="EnergyPy Logo" width="200" style="display: block; margin: 0 auto; border-radius: 4px; border: 1px solid #61DAFB;"/>
+    <br>
+
+  <p><strong style="color: #90EE90;">Estado:</strong> Completado ✅</p>
+    <div style="margin-top: 10px; margin-bottom: 15px;">
+      <p style="font-size: 0.8em; margin-bottom: 5px; color: #999;">Tecnologías clave:</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="height: 20px; margin: 2px;">
+      <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5" style="height: 20px; margin: 2px;">
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" style="height: 20px; margin: 2px;">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="height: 20px; margin: 2px;">
+      <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" style="height: 20px; margin: 2px;">
+    </div>
+    <br>
+    <a href="https://github.com/RafaelSanguinoAriza/EnergyPy" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/-Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositorio" style="height: 25px;">
+    </a>
+    <br>
+    <a href="https://github.com/RafaelSanguinoAriza/EnergyPy/releases/tag/EnergyPy" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/-Descargar-28A745?style=for-the-badge&logo=download&logoColor=white" alt="Descargar" style="height: 25px; margin-top: 5px;">
+    </a>
+  </div>
 </div>
 <br>
 
